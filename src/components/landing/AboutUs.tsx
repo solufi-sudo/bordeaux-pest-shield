@@ -38,7 +38,7 @@ const AboutUs = () => {
             <span className="text-primary"> à Bordeaux</span>
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            Spécialistes du traitement anti-moustiques depuis plus de 10 ans, nous intervenons 
+            Spécialistes du traitement anti-moustiques depuis plus de 4 ans, nous intervenons 
             chez les particuliers et les professionnels de Bordeaux et de toute la Gironde. 
             Notre expertise locale nous permet de comprendre les spécificités de notre région : 
             <strong className="text-foreground"> zones humides, moustique tigre, et climat propice à la prolifération</strong>.
