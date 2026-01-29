@@ -4,7 +4,7 @@ const steps = [
   {
     number: "01",
     icon: Search,
-    title: "Diagnostic",
+    title: "Diagnostic gratuit",
     description: "Analyse complète de votre extérieur pour identifier les zones à risque et l'ampleur de l'infestation.",
   },
   {
