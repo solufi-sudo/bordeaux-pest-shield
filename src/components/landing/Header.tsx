@@ -54,7 +54,7 @@ const Header = () => {
               className="gap-2 gradient-cta text-cta-foreground shadow-cta hover:opacity-90 transition-opacity"
               asChild
             >
-              <a href="tel:+33500000000">
+              <a href="tel:+33683643822">
                 <Phone className="w-4 h-4" />
                 Appeler
               </a>
@@ -118,7 +118,7 @@ const Header = () => {
                   className="gap-2 gradient-cta text-cta-foreground shadow-cta hover:opacity-90 transition-opacity w-full"
                   asChild
                 >
-                  <a href="tel:+33500000000">
+                  <a href="tel:+33683643822">
                     <Phone className="w-4 h-4" />
                     Appeler maintenant
                   </a>
