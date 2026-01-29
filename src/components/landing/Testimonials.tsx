@@ -23,7 +23,7 @@ const testimonials = [
   },
   {
     name: "Marie Lefebvre",
-    role: "Gérante de camping",
+    role: "Particulier",
     location: "Arcachon",
     image: "",
     initials: "ML",
