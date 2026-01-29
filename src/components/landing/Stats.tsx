@@ -8,7 +8,7 @@ const stats = [
   },
   {
     icon: Award,
-    value: "10+",
+    value: "4+",
     label: "Années d'expertise",
   },
   {
