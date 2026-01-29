@@ -53,7 +53,7 @@ const Hero = () => {
               className="gradient-cta text-cta-foreground shadow-cta hover:opacity-90 transition-all text-lg px-8 py-6 h-auto animate-pulse-soft"
               asChild
             >
-              <a href="tel:+33500000000" className="gap-3">
+              <a href="tel:+33683643822" className="gap-3">
                 <Phone className="w-5 h-5" />
                 Demander Mon Diagnostic Gratuit
               </a>

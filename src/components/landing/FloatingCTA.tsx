@@ -9,7 +9,7 @@ const FloatingCTA = () => {
         className="gradient-cta text-cta-foreground shadow-cta hover:opacity-90 transition-all rounded-full w-16 h-16 p-0 animate-pulse-soft"
         asChild
       >
-        <a href="tel:+33500000000" aria-label="Appeler maintenant">
+        <a href="tel:+33683643822" aria-label="Appeler maintenant">
           <Phone className="w-7 h-7" />
         </a>
       </Button>
