@@ -14,7 +14,7 @@ const testimonials = [
   },
   {
     name: "Jean-Pierre Dubois",
-    role: "Restaurateur",
+    role: "Maison d'hôtes",
     location: "Bordeaux Centre",
     image: "",
     initials: "JD",
