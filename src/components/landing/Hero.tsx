@@ -26,7 +26,7 @@ const Hero = () => {
             </Badge>
             <Badge variant="outline" className="border-primary-foreground/30 text-primary-foreground px-3 py-1 text-sm">
               <Users className="w-3 h-3 mr-1" />
-              +500 clients satisfaits
+              +200 clients satisfaits
             </Badge>
             <Badge variant="outline" className="border-primary-foreground/30 text-primary-foreground px-3 py-1 text-sm">
               <Clock className="w-3 h-3 mr-1" />

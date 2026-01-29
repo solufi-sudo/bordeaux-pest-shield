@@ -3,7 +3,7 @@ import { Users, Award, ThumbsUp, Clock } from "lucide-react";
 const stats = [
   {
     icon: Users,
-    value: "+500",
+    value: "+200",
     label: "Clients protégés",
   },
   {
