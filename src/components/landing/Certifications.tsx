@@ -1,8 +1,7 @@
-import { Award, Leaf, Shield, BadgeCheck } from "lucide-react";
+import { Award, Leaf, BadgeCheck } from "lucide-react";
 
 const certifications = [
   { icon: Award, label: "Certibiocide" },
-  { icon: Shield, label: "Certiphyto" },
   { icon: Leaf, label: "Éco-Responsable" },
   { icon: BadgeCheck, label: "Qualité Pro" },
 ];
