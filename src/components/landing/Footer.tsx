@@ -71,12 +71,12 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a
-                  href="mailto:contact@moustiques-bordeaux.fr"
+              <a
+                  href="mailto:jd@genostique.bio"
                   className="flex items-center gap-3 text-background/70 hover:text-secondary transition-colors text-sm"
                 >
                   <Mail className="w-4 h-4" />
-                  contact@moustiques-bordeaux.fr
+                  jd@genostique.bio
                 </a>
               </li>
               <li className="flex items-start gap-3 text-background/70 text-sm">
