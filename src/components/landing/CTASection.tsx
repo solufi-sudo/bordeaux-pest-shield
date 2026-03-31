@@ -27,7 +27,7 @@ const CTASection = () => {
 
           {/* Subtitle */}
           <p className="text-xl text-primary-foreground/90 mb-8 max-w-2xl mx-auto">
-            Places limitées chaque semaine. Intervention sous 48h garantie. 
+            Places limitées chaque semaine. Intervention sous 48h garantie.
             <strong> Diagnostic gratuit et sans engagement.</strong>
           </p>
 
@@ -65,7 +65,7 @@ const CTASection = () => {
               className="border-2 border-primary-foreground/40 text-primary-foreground bg-primary-foreground/10 hover:bg-primary-foreground/20 text-lg px-10 py-7 h-auto"
               asChild
             >
-              <a href="https://wa.me/33600000000" target="_blank" rel="noopener noreferrer" className="gap-3">
+              <a href="https://wa.me/33683643822" target="_blank" rel="noopener noreferrer" className="gap-3">
                 <MessageCircle className="w-6 h-6" />
                 WhatsApp
               </a>

@@ -46,7 +46,7 @@ const Header = () => {
               className="gap-2 border-secondary text-secondary hover:bg-secondary hover:text-secondary-foreground"
               asChild
             >
-              <a href="https://wa.me/33600000000" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/33683643822" target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="w-4 h-4" />
                 WhatsApp
               </a>
@@ -111,7 +111,7 @@ const Header = () => {
                   className="gap-2 border-secondary text-secondary hover:bg-secondary hover:text-secondary-foreground w-full"
                   asChild
                 >
-                  <a href="https://wa.me/33600000000" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/33683643822" target="_blank" rel="noopener noreferrer">
                     <MessageCircle className="w-4 h-4" />
                     WhatsApp
                   </a>

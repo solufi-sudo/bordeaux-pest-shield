@@ -42,7 +42,7 @@ const Hero = () => {
 
           {/* Subtitle */}
           <p className="text-xl md:text-2xl text-primary-foreground/90 mb-8 leading-relaxed animate-fade-in" style={{ animationDelay: "0.3s" }}>
-            Solution professionnelle et durable pour <strong>Bordeaux</strong> et toute la <strong>Gironde</strong>. 
+            Solution professionnelle et durable pour <strong>Bordeaux</strong> et toute la <strong>Gironde</strong>.
             Retrouvez le plaisir de vos soirées d'été.
           </p>
 
@@ -64,7 +64,7 @@ const Hero = () => {
               className="border-2 border-primary-foreground/40 text-primary-foreground bg-primary-foreground/10 hover:bg-primary-foreground/20 text-lg px-8 py-6 h-auto backdrop-blur-sm"
               asChild
             >
-              <a href="https://wa.me/33600000000" target="_blank" rel="noopener noreferrer" className="gap-3">
+              <a href="https://wa.me/33683643822" target="_blank" rel="noopener noreferrer" className="gap-3">
                 <MessageCircle className="w-5 h-5" />
                 Nous contacter sur WhatsApp
               </a>
