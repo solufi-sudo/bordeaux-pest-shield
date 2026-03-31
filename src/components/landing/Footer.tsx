@@ -7,17 +7,19 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mb-12">
           {/* Brand */}
           <div>
-            <div className="flex items-center gap-2 mb-4">
-              <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">M</span>
-              </div>
-              <div>
-                <span className="font-bold text-lg text-background">Moustiques</span>
-                <span className="font-bold text-lg text-secondary">Bordeaux</span>
+            <div className="flex items-center gap-3 mb-4">
+              <img
+                src="/logo.png"
+                alt="SOS Moustiques Bordeaux"
+                className="h-10 w-auto object-contain"
+              />
+              <div className="font-black text-xl lg:text-2xl tracking-tight leading-none uppercase">
+                <span className="text-[#1E5EFF]">SOS </span>
+                <span className="text-[#4CAF50]">MOUSTIQUES</span>
               </div>
             </div>
             <p className="text-background/70 text-sm leading-relaxed">
-              Votre expert en traitement anti-moustiques à Bordeaux et en Gironde. 
+              Votre expert en traitement anti-moustiques à Bordeaux et en Gironde.
               Solutions professionnelles et durables.
             </p>
           </div>
@@ -71,7 +73,7 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-              <a
+                <a
                   href="mailto:solufi@yahoo.fr"
                   className="flex items-center gap-3 text-background/70 hover:text-secondary transition-colors text-sm"
                 >
@@ -90,7 +92,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-background/10 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-background/50">
-            <p>© 2024 Moustiques Bordeaux. Tous droits réservés.</p>
+            <p>© 2026 SOS Moustiques. Tous droits réservés.</p>
             <div className="flex gap-6">
               <a href="#" className="hover:text-background transition-colors">
                 Mentions légales
