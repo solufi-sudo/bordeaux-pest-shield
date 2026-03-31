@@ -10,12 +10,16 @@ const Header = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16 lg:h-20">
           {/* Logo */}
-          <div className="flex items-center">
+          <div className="flex items-center gap-3">
             <img
               src="/logo.png"
               alt="SOS Moustiques Bordeaux"
               className="h-12 lg:h-14 w-auto object-contain"
             />
+            <div className="hidden sm:block font-black text-xl lg:text-2xl tracking-tight leading-none uppercase">
+              <span className="text-[#1E5EFF]">SOS </span>
+              <span className="text-[#4CAF50]">MOUSTIQUES</span>
+            </div>
           </div>
 
           {/* Desktop Navigation */}
